@@ -1,7 +1,7 @@
 <?php
 
-$file = 'football-teams.csv';
-$folder = 'gatling-load-tests/src/test/resources/sport/'; 
+$file = 'indexes.csv';
+$folder = '../gatling-load-tests/src/test/resources/sport/'; 
     
 $prefix = 'http://m.bbc.co.uk';
 $suffix = '';
